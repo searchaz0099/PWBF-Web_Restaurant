@@ -1,0 +1,31 @@
+.faq {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+  }
+
+
+  .faq-box-answers {
+    width: 500px; 
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    /* padding: 20px; */
+    margin-bottom: 20px; 
+    text-align: center;
+    background: rgb(255, 255, 255);
+    display: block;
+  }
+
+  .faq-box-questions {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px; 
+    text-align: center;
+    background: yellow;
+    display: block;
+    width: 500px;
+    color: black;
+    cursor: pointer;
+  }

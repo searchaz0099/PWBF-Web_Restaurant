@@ -1,0 +1,8 @@
+react
+
+>>>>bootstrap
+npm install react-bootstrap bootstrap
+import "bootstrap/dist/css/bootstrap.min.css"
+
+
+buat model menu makanan dengan css pada react dengan 3 conten 
